@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+This repository will serve as a portfolio of my favorite GIS projects I have worked on during my graduate program. Please feel free to examine any of these files and email me with any questions. I can be reached at mpnims@gmail.com or on linkedin at https://www.linkedin.com/in/michael-nims-a7931b1b0/ .
 
 <img src="images/demo.gif?raw=true"/>
 
