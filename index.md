@@ -2,22 +2,22 @@
 
 ---
 
-### Category Name 1 
+### This section will hold my best projects including term porjects completed in my various courses. 
 
-[Project 1 Title](/sample_page)
+[Parks and Poverty in the Nation's Capital](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Social Inequality and Recreation Access in D.C.](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Analysis of Covid-19 Infection Rates and deaths](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### This section will hold smaller projects including maps created as part of weekly homewoork assignments
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
