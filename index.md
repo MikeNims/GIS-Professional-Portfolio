@@ -2,7 +2,7 @@
 
 ---
 
-### This section will hold my best projects including term porjects completed in my various courses. 
+### This section will hold my best projects including term projects completed in my various courses. (no files have yet been uploaded) 
 
 [Parks and Poverty in the Nation's Capital](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
