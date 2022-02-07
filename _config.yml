@@ -6,6 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Web links 
   <br><br>
   <a href="https://www.linkedin.com/in/michael-nims-a7931b1b0/">Michael Nims LinkedIn Profile</a> 
+  <br><br>
   <a href="https://github.com/MikeNims/GIS_Portfolio">Michael Nims GIS File Repository</a> 
   
 theme: jekyll-theme-minimal
