@@ -17,7 +17,7 @@
 
 ---
 
-### This section will hold smaller projects including maps created as part of weekly homewoork assignments
+### This section will hold smaller projects including maps created as part of weekly homework assignments
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
