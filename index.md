@@ -24,8 +24,8 @@
 
 ### This section will hold smaller projects including maps created as part of weekly homework assignments
 
-- [Parks and Poverty Three minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
-- [Project 2 Title](http://example.com/)
+- [Parks and Poverty Three Minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
+- [Covid-19 Analysis Rscript](https://github.com/MikeNims/GIS_Portfolio/blob/main/Covid-19%20Infection%20rates%20and%20deaths%20RScript.R)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
