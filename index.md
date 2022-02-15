@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Social Inequality and Recreation Access in D.C.](/pdf/sample_presentation.pdf)
+[Social Inequality and Recreation Access in D.C.](/pdf/Analysis of Covid-19 Infection rates and Eaths in the U.S.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
