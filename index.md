@@ -8,11 +8,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Social Inequality and Recreation Access in D.C.](/pdf/Analysis of Covid-19 Infection rates and Eaths in the U.S.pdf)
+[Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis of Covid-19 Infection rates and Eaths in the U.S.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Analysis of Covid-19 Infection Rates and deaths](http://example.com/)
+[Social Inequality and Recreation Access in D.C.](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
