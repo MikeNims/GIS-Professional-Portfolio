@@ -11,11 +11,13 @@
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-[Crime and Food insecurity in the Distric of Columbia](/pdf/.pdf)
+---
+
+[Crime and Food insecurity in the Distric of Columbia](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Social Inequality and Recreation Access in D.C.](http://example.com/)
+[Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
