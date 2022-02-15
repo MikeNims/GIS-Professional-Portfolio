@@ -24,7 +24,7 @@
 
 ### This section will hold smaller projects including maps created as part of weekly homework assignments
 
-- [Project 1 Title](http://example.com/)
+- [Parks and Poverty Three minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
