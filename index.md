@@ -4,7 +4,7 @@
 
 ### This section will hold my best projects including term projects completed in my various courses. (no files have yet been uploaded) 
 
-[Parks and Poverty in the Nation's Capital](/sample_page)
+[Parks and Poverty in the Nation's Capital](/https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
