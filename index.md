@@ -2,7 +2,7 @@
 
 ---
 
-### This section will hold my best projects including term projects completed in my various courses. (no files have yet been uploaded) 
+### This section holds my best projects including term projects completed in the various courses of my graduate program.  
 
 [Parks and Poverty in the Nation's Capital](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -26,9 +26,9 @@
 
 - [Parks and Poverty Three Minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
 - [Covid-19 Analysis Rscript](https://github.com/MikeNims/GIS_Portfolio/blob/main/Covid-19%20Infection%20rates%20and%20deaths%20RScript.R)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Cleveland County OK Dasymetric Map of Population Density](https://github.com/MikeNims/GIS_Portfolio/blob/main/Cleveland_County_Dasymetric_map.pdf)
+- [Cleveland COunty OK Population Proportion Living in Poverty](https://github.com/MikeNims/GIS_Portfolio/blob/main/Cleveland_County_Poverty_Levels.pdf)
+
 
 ---
 
