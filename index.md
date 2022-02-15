@@ -11,6 +11,9 @@
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+[Crime and Food insecurity in the Distric of Columbia](/pdf/.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 ---
 [Social Inequality and Recreation Access in D.C.](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
