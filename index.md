@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Analysis of Covid-19 Infection Rates and deaths](Analysis of Covid-19 Infection rates and Eaths in the U.S.pdf)
+[Analysis of Covid-19 Infection Rates and deaths](/pdf/.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
