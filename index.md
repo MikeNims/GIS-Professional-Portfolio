@@ -3,11 +3,12 @@
 ---
 
 ### This section holds my best projects including term projects completed in the various courses of my graduate program.  
+---
 
 [Parks and Poverty in the Nation's Capital](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
 
 <img src="images/National_mall.jpg?raw=true"/> 
-"/images/Military headshot.png?raw=true"
+
 ---
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 
