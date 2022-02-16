@@ -5,19 +5,23 @@
 ### This section holds my best projects including term projects completed in the various courses of my graduate program.  
 
 [Parks and Poverty in the Nation's Capital](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
-<img src="images/National_mall.jpg?raw=true"/> 
 
+<img src="images/National_mall.jpg?raw=true"/> 
+"/images/Military headshot.png?raw=true"
 ---
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
+
 <img src="images/National_mall.jpg?raw=true"/>
 
 ---
 
 [Crime and Food insecurity in the Distric of Columbia](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
