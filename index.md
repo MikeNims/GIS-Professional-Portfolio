@@ -27,7 +27,7 @@
 - [Parks and Poverty Three Minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
 - [Covid-19 Analysis Rscript](https://github.com/MikeNims/GIS_Portfolio/blob/main/Covid-19%20Infection%20rates%20and%20deaths%20RScript.R)
 - [Cleveland County OK Dasymetric Map of Population Density](https://github.com/MikeNims/GIS_Portfolio/blob/main/Cleveland_County_Dasymetric_map.pdf)
-- [Cleveland COunty OK Population Proportion Living in Poverty](https://github.com/MikeNims/GIS_Portfolio/blob/main/Cleveland_County_Poverty_Levels.pdf)
+- [Cleveland County OK Population Proportion Living in Poverty](https://github.com/MikeNims/GIS_Portfolio/blob/main/Cleveland_County_Poverty_Levels.pdf)
 
 
 ---
