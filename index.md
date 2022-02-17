@@ -33,13 +33,13 @@
 
 ---
 
-[Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
+[Social Inequality and Recreation Access in D.C. (Essay)](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
 
 <img src="images/Parks_and_inequality_results.JPG?raw=true"/>
 
 ---
 
-### This section will hold smaller projects including maps created as part of weekly homework assignments
+### This section holds smaller projects including maps created as part of weekly homework assignments
 
 - [Parks and Poverty Three Minute Thesis](https://github.com/MikeNims/GIS_Portfolio/blob/main/Three%20minute%20Thesis%2C%20DC%20Parks.pdf)
 - [Covid-19 Analysis Rscript](https://github.com/MikeNims/GIS_Portfolio/blob/main/Covid-19%20Infection%20rates%20and%20deaths%20RScript.R)
