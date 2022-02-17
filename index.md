@@ -12,10 +12,9 @@
 
 ---
 
-[Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
+[Analysis of Covid-19 Infection Rates and deaths (Essay)](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 
 <img src="images/Covid_graphs.JPG?raw=true"/>
-
 
 <img src="images/Covid_deaths_by_state.JPG?raw=true"/>
 
@@ -23,10 +22,14 @@
 
 ---
 
-[Crime and Food insecurity in the Distric of Columbia](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
+[Crime and Food insecurity in the Distric of Columbia (Essay)](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<img src="images/Moran's I.JPG?raw=true"/>
+
+<img src="images/High_crime_food_insecure.JPG?raw=true"/>
+
+<img src="images/Low_crime_food insecure.JPG?raw=true"/>
 ---
 [Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
 
