@@ -12,7 +12,7 @@
 ---
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 
-<img src="images/National_mall.jpg?raw=true"/>
+<img src="images/National_mall.JPG?raw=true"/>
 
 ---
 
