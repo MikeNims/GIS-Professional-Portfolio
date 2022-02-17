@@ -5,7 +5,7 @@
 ### This section holds my best projects including term projects completed in the various courses of my graduate program.  
 ---
 
-[Parks and Poverty in the Nation's Capital](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
+[Parks and Poverty in the Nation's Capital (Story Map)](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
 
 <img src= "images/National_mall.JPG?raw=true"/> 
 
