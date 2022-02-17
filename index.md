@@ -35,7 +35,7 @@
 
 [Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Parks_and_inequality_results.JPG?raw=true"/>
 
 ---
 
