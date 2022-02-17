@@ -30,7 +30,9 @@
 <img src="images/High_crime_food_insecure.JPG?raw=true"/>
 
 <img src="images/Low_crime_food insecure.JPG?raw=true"/>
+
 ---
+
 [Social Inequality and Recreation Access in D.C.](/pdf/Social_Inequality_and_Recreation_Access_in_the_Nation’s_Capitol.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
