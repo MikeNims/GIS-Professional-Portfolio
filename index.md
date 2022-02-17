@@ -11,6 +11,7 @@
 
 
 ---
+
 [Analysis of Covid-19 Infection Rates and deaths](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
 
 <img src="images/Covid_graphs.JPG?raw=true"/>
@@ -19,6 +20,7 @@
 <img src="images/Covid_deaths_by_state.JPG?raw=true"/>
 
 <img src="images/Covid_cases_and_deaths.JPG?raw=true"/>
+
 ---
 
 [Crime and Food insecurity in the Distric of Columbia](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
