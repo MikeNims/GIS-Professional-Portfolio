@@ -9,7 +9,7 @@
 
 <img src= "images/National_mall.JPG?raw=true"/> 
 
-
+ 
 ---
 
 [Analysis of Covid-19 Infection Rates and deaths (Essay)](/pdf/Analysis_of_Covid-19_Infection_Rates_and_Deaths_in_the_US.pdf)
