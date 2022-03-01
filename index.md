@@ -24,7 +24,7 @@
 
 [Crime and Food insecurity in the Distric of Columbia (Essay)](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
 
-
+[Crime and Food insecurity in the Distric of Columbia (Story Map)] (https://storymaps.arcgis.com/stories/76fb1059fabb49c494bac71e623983fb)
 <img src="images/Moran's I.JPG?raw=true"/>
 
 <img src="images/High_crime_food_insecure.JPG?raw=true"/>
