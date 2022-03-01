@@ -19,7 +19,7 @@
 <img src="images/Covid_deaths_by_state.JPG?raw=true"/>
 
 <img src="images/Covid_cases_and_deaths.JPG?raw=true"/>
-
+ 
 ---
 
 [Crime and Food insecurity in the Distric of Columbia (Essay)](/pdf/Crime_and_Food_Insecurity_in_the_District_of_Columbia.pdf)
