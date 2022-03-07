@@ -40,7 +40,7 @@
 ---
 [California Wildfires, Burned area Map (Google Earth Engine App)](https://mpnims.users.earthengine.app/view/michael-nims-remote-sensing-app)
 
-<img src="images/Google_Earth_Engine_app.JPG?raw=true"/>
+<img src="images/Google_Earth_Engine_app.JPG?raw=true"/> 
 
 ---
 ### This section holds smaller projects including maps created as part of weekly homework assignments
