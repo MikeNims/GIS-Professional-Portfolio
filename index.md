@@ -14,6 +14,8 @@
 
 <img src= "images/AVG_WF_Size.png?raw=true"/> 
 
+<img src= "images/Capstone_project_table.png?raw=true"/> 
+
 
 ---
 
