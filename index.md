@@ -6,9 +6,14 @@
 
 [Rainforests in Hot Water: Warming Oceans and Their Effect on Wildfires in the Temperate Rainforests of the Pacific Northwest](https://github.com/MikeNims/GIS-Professional-Portfolio/blob/c3ef48227bbc1d3b326e43ea1433768358b83614/pdf/Rainforests_in_Hot_Water_Term_Project_Michael_Nims_Complete.pdf)
 
-<img src= "images/?raw=true"/> 
+<img src= "images/Temp_variations.png?raw=true"/> 
 
- 
+<img src= "images/Wildfire_map_2020.png?raw=true"/> 
+
+<img src= "images/AVG_SST_F.png?raw=true"/> 
+
+<img src= "images/AVG_WF_Size.png?raw=true"/> 
+
 
 ---
 
