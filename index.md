@@ -3,6 +3,13 @@
 ---
 
 ### This section holds my best projects including term projects completed in the various courses of my graduate program.  
+
+[Rainforests in Hot Water: Warming Oceans and Their Effect on Wildfires in the Temperate Rainforests of the Pacific Northwest](https://github.com/MikeNims/GIS_Portfolio/blob/main/Rainforests_in_Hot_Water_Term_Project_Michael_Nims_Complete.pdf)
+
+<img src= "images/?raw=true"/> 
+
+ 
+
 ---
 
 [Parks and Poverty in the Nation's Capital (Story Map)](https://storymaps.arcgis.com/stories/e827df3beaa0481ebdd2ef3233eafd3f)
